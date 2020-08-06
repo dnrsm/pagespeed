@@ -1,4 +1,5 @@
 # pagespeed
+[![tag](https://img.shields.io/github/v/tag/dnrsm/pagespeed.svg)](https://github.com/dnrsm/pagespeed/tags/)
 ![CI](https://github.com/dnrsm/pagespeed/workflows/CI/badge.svg) 
 [![nest badge](https://nest.land/badge.svg)](https://nest.land/package/pagespeed)
 
@@ -29,7 +30,7 @@ console.log(data);
 ## CLI
 ## Install
 ```
-$ deno install --allow-net --name pagespeed mod.ts
+$ deno install --allow-net --name pagespeed https://deno.land/x/pagespeed/mod.ts
 ```
 
 ## Usage
