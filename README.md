@@ -1,6 +1,6 @@
 # pagespeed
 ![CI](https://github.com/dnrsm/pagespeed/workflows/CI/badge.svg) 
-[![nest badge](https://nest.land/badge.svg)](https://nest.land/package/your-module)
+[![nest badge](https://nest.land/badge.svg)](https://nest.land/package/pagespeed)
 
 CLI tool and API Wrapper for the [PageSpeed Insights API](https://developers.google.com/speed/docs/insights/v5/get-started) written in Deno
 > Inspired by https://github.com/GoogleChromeLabs/psi
