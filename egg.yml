@@ -1,0 +1,10 @@
+name: pagespeed
+description: CLI tool and API Wrapper for the PageSpeed Insights API written in Deno 🦕
+stable: false
+version: 0.1.0
+files:
+  - ./deps.ts
+  - ./util.ts
+  - ./mod.ts
+  - ./README.md
+  - ./LICENSE
